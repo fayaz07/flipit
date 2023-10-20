@@ -1,5 +1,7 @@
 # FlipIt
 
+[![Deploy](https://github.com/fayaz07/flipit/actions/workflows/deploy.yml/badge.svg)](https://github.com/fayaz07/flipit/actions/workflows/deploy.yml) [![Demo](https://github.com/fayaz07/flipit/actions/workflows/deploy.yml/badge.svg)](https://fayaz07.github.io/flipit)
+
 > A simple game contains n cards against m players, as a fun session for workplace.
 
 ## Screenshots
