@@ -1,0 +1,14 @@
+.wheel {
+  width: 20vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.wheelButton {
+  width: 100px;
+  background-color: #fff;
+  box-shadow: 0 0 0 2px #000;
+  /* margin: 0; */
+}

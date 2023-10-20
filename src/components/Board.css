@@ -1,0 +1,39 @@
+.board {
+  display: flex;
+  flex-direction: row;
+  margin: 2%;
+  flex-wrap: wrap;
+  gap: 16px;
+  align-items: center;
+  justify-content: center;
+}
+
+.boardMain {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  width: 100%;
+  max-width: 100%;
+}
+
+.leftBoard {
+  width: 80vw;
+  height: 100vh;
+  max-height: 100vh;
+  overflow-y: scroll;
+}
+
+.rightBoard {
+  width: 20vw;
+  height: 100vh;
+  max-height: 100vh;
+  overflow-y: scroll;
+}
+
+.headerB {
+  display: flex;
+  flex-direction: row;
+  height: min-content;
+  justify-content: space-around;
+  align-items: center;
+}
